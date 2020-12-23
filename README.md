@@ -7,8 +7,6 @@ Building AI course project
 
 Building an automatic call classifier for emergency services' control rooms to help them to react quickly and in an appropriate manner even during busy times. 
 
-Input: what the first responders say on their talk groups. Output: real-time classification reflecting the priority of the call (from routine to emergency).
-
 
 ## Background
 
