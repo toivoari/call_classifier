@@ -24,7 +24,7 @@ The classification of each group call is provided together with other call infor
 
 ## Data sources and AI methods
 
-Data to be gathered includes words, phrases and sentences said and priorities of the calls. Voice recognition is used to transform spoken language into text and each call is classified per its priority, e.g. "routine", "advice required", "assistance required" or "emergency". 
+Data to be gathered includes words, phrases and sentences said and priorities of the calls. Voice recognition is used to transform spoken language into text and each call is classified per its priority, e.g. into "routine", "advice required", "assistance required" or "emergency". 
 
 Some pre-work will be required to build up a training data set, including both capturing the spoken words and classifying each call.
 
